@@ -24,7 +24,7 @@ Predictive Maintenance for IoT-Connected Machines using Quantum Auto Encoder App
 
 ## System Architecture
 
-
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/5db1b894-e7d7-40b5-a350-ce779c827e0d">
 
 
 ## Output
