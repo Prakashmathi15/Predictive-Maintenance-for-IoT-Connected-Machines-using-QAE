@@ -35,7 +35,7 @@ Predictive Maintenance for IoT-Connected Machines using Quantum Auto Encoder App
 <img width="477" alt="image" src="https://github.com/user-attachments/assets/c906ceef-de8d-4e77-b113-06428d7e1b0f">
 
 
-#### Output2 - Anomaly Detection and Predictive Maintenance
+#### Output2 - Anomaly Detection and Predictive Maintenance Alerts
 
 <img width="477" alt="image" src="https://github.com/user-attachments/assets/d32209d5-9c68-4986-9770-f4e577be0b56">
 
