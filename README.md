@@ -1,5 +1,5 @@
 ## Predictive Maintenance for IoT-Connected Machines using Quantum Auto Encoder Approach
-Predictive Maintenance for IoT-Connected Machines using Quantum Auto Encoder Approach aims to prevent machinery downtime and optimize maintenance schedules by leveraging quantum auto encoders for early fault detection
+ Aims to prevent machinery downtime and optimize maintenance schedules by leveraging quantum auto encoders for early fault detection.
 
 ## About
 Predictive Maintenance for IoT-Connected Machines using Quantum Auto Encoder Approach aims to prevent machinery downtime and optimize maintenance schedules by leveraging quantum auto encoders for early fault detection. This project integrates IoT data with quantum machine learning to improve the accuracy and efficiency of predictive maintenance in industrial environments.  
